@@ -4,7 +4,7 @@ This Python project simulates an ETL workflow for NHL data. We collect detailed 
 
 Below is an example of a query that can be made using the skaters table produced from these scripts:
 
-![Alt text]([URL](https://user-images.githubusercontent.com/81118163/264910780-da5a45ed-d0f4-4fe2-b7bb-4147d5fcfc0f.PNG))
+![Alt text](https://user-images.githubusercontent.com/81118163/264910780-da5a45ed-d0f4-4fe2-b7bb-4147d5fcfc0f.PNG)
 
 
 

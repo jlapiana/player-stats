@@ -1,6 +1,9 @@
+# Attempt at automating process via airflow instead of running each task through main.py
+
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-import scrape, transform, db_loader
+import scrape, transform
+from db import db_loader
 
 default_args = {
     'retries': 1
